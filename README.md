@@ -1,7 +1,19 @@
 # NumberToArabicWords
+
 convert integer to arabic words
-![result 1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.android.com%2Ftopic%2Flibraries%2Farchitecture%2Fpaging%2Fv3-overview&psig=AOvVaw0rJH7y2vFOQlwox7ZyvPFu&ust=1625396000329000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDN5Y_exvECFQAAAAAdAAAAABAJ)
-![result 2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.android.com%2Ftopic%2Flibraries%2Farchitecture%2Fpaging%2Fv3-overview&psig=AOvVaw0rJH7y2vFOQlwox7ZyvPFu&ust=1625396000329000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDN5Y_exvECFQAAAAAdAAAAABAJ)
+
+![result 1](https://github.com/Bilal33333/NumberToArabicWords/blob/master/pictures/NumberToArabicWord%20result%201.png)
+
+![result 2](https://github.com/Bilal33333/NumberToArabicWords/blob/master/pictures/NumberToArabicWord%20result%202.png)
+
 #Code
-main functioin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.android.com%2Ftopic%2Flibraries%2Farchitecture%2Fpaging%2Fv3-overview&psig=AOvVaw0rJH7y2vFOQlwox7ZyvPFu&ust=1625396000329000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDN5Y_exvECFQAAAAAdAAAAABAJ)
-![UML diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.android.com%2Ftopic%2Flibraries%2Farchitecture%2Fpaging%2Fv3-overview&psig=AOvVaw0rJH7y2vFOQlwox7ZyvPFu&ust=1625396000329000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDN5Y_exvECFQAAAAAdAAAAABAJ)
+
+main function: 
+![main function](https://github.com/Bilal33333/NumberToArabicWords/blob/master/pictures/NumberToArabicWord%20main%20function.png)
+
+UML diagram: 
+![UML diagram](https://github.com/Bilal33333/NumberToArabicWords/blob/master/pictures/NumberToArabicWord%20uml.png)
+
+## Author
+
+[@bilaltaghda in linkedin](https://www.linkedin.com/in/bilal-taghda-7892b9200/)
