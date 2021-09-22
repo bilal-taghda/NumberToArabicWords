@@ -10,7 +10,8 @@ convert integer to arabic words
 
 this repo is inspired by algorithms unplagged, chapter 23: 
 ![result 2](https://github.com/Bilal33333/NumberToArabicWords/blob/master/pictures/number_to_words_prionciple.gif)
-#Code
+
+# Code
 
 main function: 
 
