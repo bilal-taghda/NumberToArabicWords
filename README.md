@@ -13,3 +13,7 @@ main function:
 
 UML diagram: 
 ![UML diagram](https://github.com/Bilal33333/NumberToArabicWords/blob/master/pictures/NumberToArabicWord%20uml.png)
+
+## Author
+
+[@bilaltaghda in linkedin](https://www.linkedin.com/in/bilal-taghda-7892b9200/)
